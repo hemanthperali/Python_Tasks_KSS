@@ -1,0 +1,7 @@
+Students Results
+Arun : 85
+Bala : 45
+Charan : 70
+Divya : 90
+Esha : 35
+Average Marks:65
